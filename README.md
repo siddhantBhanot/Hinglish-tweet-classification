@@ -1,6 +1,6 @@
 # Hinglish-tweet-classification
-This project aims at classifying  social media Hinglish text based on aggression.
-The dataset used is TRAC 2 dataset which was published by the European Language Resources Association in Language Resources and Evaluation Conference(2020).
+This project aims at classifying  social media Hinglish text based on aggression. <br/>
+The dataset used is TRAC 2 dataset which was published by the European Language Resources Association in Language Resources and Evaluation Conference(2020). <br/>
 The data is classified into 3 classes namely NAG(Non Aggressive), CAG(Covertly Aggressive) and OAG (Overly Aggressive).
 <ul>
 
