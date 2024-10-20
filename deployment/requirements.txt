@@ -6,7 +6,7 @@ docutils==0.21.2
 filelock==3.16.1
 googletrans==4.0.0rc1
 HTMLParser==0.0.2
-indictrans==1.2.3
+git+https://github.com/libindic/indic-trans.git
 ipython==8.12.3
 ipywidgets==8.1.5
 jnius==1.1.0
