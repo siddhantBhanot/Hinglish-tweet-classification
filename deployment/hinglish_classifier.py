@@ -5,10 +5,10 @@ import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load your pre-trained SVM model
-svm_model = joblib.load('svm_model.pkl')
+svm_model = joblib.load('deployment/svm_model.pkl')
 
 # Load the vectorizer used for transforming data
-vectorizer = joblib.load('vectorizer.pkl')  # Ensure you save and load the TF-IDF vectorizer
+vectorizer = joblib.load('deployment/vectorizer.pkl')  # Ensure you save and load the TF-IDF vectorizer
 
 # Create a translator instance for Google Translate API
 translator = Translator()
