@@ -1,7 +1,7 @@
 # Hinglish-tweet-classification
 This project aims at classifying  social media Hinglish text based on aggression. <br/>
 The dataset used is TRAC 2 dataset which was published by the European Language Resources Association in Language Resources and Evaluation Conference(2020). <br/>
-The data is classified into 3 classes namely NAG(Non Aggressive), CAG(Covertly Aggressive) and OAG (Overly Aggressive).
+The data is classified into 3 classes namely NAG(Non Aggressive), CAG(Covertly Aggressive) and OAG (Overtly Aggressive).
 <ul>
 
   <li>Covertly Aggressive (CAG): This label was given to comments which had a hint of hate speech or had some moderately bad words.</li>
