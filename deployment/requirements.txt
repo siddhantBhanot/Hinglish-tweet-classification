@@ -1,8 +1,8 @@
+setuptools
+distlib
 googletrans==4.0.0rc1
 git+https://github.com/libindic/indic-trans.git
 joblib==1.4.2
 scikit_learn==1.5.2
 streamlit
-setuptools
 numpy==1.24.3
-
