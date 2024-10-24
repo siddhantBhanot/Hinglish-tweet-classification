@@ -1,4 +1,4 @@
-streamlit==1.25.0
+streamlit
 setuptools>=65.5.0
 googletrans==4.0.0rc1
 git+https://github.com/libindic/indic-trans.git
