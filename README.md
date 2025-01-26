@@ -83,7 +83,7 @@ Hinglish-Classification/
 ├── Backtranslate Notebook/
 ├── Models/
 ├── deployment/
-│   ├── streamlit-app.py
+│   ├── hinglish_classifier.py
 ├── .gitignore
 └── README.md
 ```
