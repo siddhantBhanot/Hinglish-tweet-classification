@@ -65,6 +65,13 @@ The performance of various models is summarized below:
 
 ---
 
+## Usage
+
+1. **Streamlit App**:
+   A Streamlit application is deployed and can be accessed here: [Hinglish Text Classification App](https://hinglish-tweet-classification.streamlit.app/)
+
+---
+
 ## Project Structure
 
 ```
@@ -92,7 +99,3 @@ Hinglish-Classification/
 5. Ai4Bharat pre-trained Hindi Word Embeddings: [GitHub](https://github.com/AI4Bharat/indicnlp_corpus#word-embeddings)
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
